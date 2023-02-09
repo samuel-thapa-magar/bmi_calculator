@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 const Color kappbarColor = Color(0xFFFFFFFF);
-const Color kthemeColor = Color(0xFF576EE8);
+const Color kthemeColor = Color(0xFF576E22);
 
 const kappbarTextStyle =
     TextStyle(fontSize: 25, color: Colors.black, fontWeight: FontWeight.bold);
