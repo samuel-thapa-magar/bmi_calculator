@@ -5,6 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This app calculates the Body Mass Index of a person.
+
 Some screenshots of the app are shown below :
 
 ![screenshot](images/Screenshots/scr1.jpeg)
