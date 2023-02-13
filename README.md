@@ -11,7 +11,7 @@ Some screenshots of the app are shown below :
 ![screenshot](images/Screenshots/scr1.jpeg)
 ![screenshot](images/Screenshots/scr2.jpeg)
 
-<img src="images/Screenshots/scr1.jpeg" width="128" height="128" />
+<img src="images/Screenshots/scr1.jpeg" width="576" height="1280" />
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
