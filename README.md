@@ -13,6 +13,7 @@ Some screenshots of the app are shown below :
 
 <img src="images/Screenshots/scr1.jpeg" width="350" height="777" />
 
+
 <img src="images/Screenshots/scr2.jpeg" width="350" height="777" />
 
 For help getting started with Flutter development, view the
