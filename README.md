@@ -8,6 +8,7 @@ This app calculates the Body Mass Index of a person.
 Some screenshots of the app are shown below :
 
 ![screenshot](images/Screenshots/scr1.jpeg)
+![screenshot](images/Screenshots/scr2.jpeg)
 
 
 
